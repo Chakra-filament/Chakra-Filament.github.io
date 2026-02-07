@@ -31,10 +31,14 @@
 
 
 *IMPRIMIENDO ECONOMÍA CIRCULAR E INNOVACIÓN SOCIAL*
-## FILAMENTOS
+
+# FILAMENTOS
 
 *"CHAKRA FILAMENT integra tres filamentos base que trabajan en conjunto para garantizar un desempeño óptimo en impresión 3D, equilibrando eficiencia mecánica y compromiso ecológico."*
 
+![WhatsApp Image 2026-02-06 at 10 44 59 PM](https://github.com/user-attachments/assets/7e3e2882-1b64-49d8-9ba6-ba0f0dc768fa)
+
+*PROCESO DE ELABORACIÓN*
 
 <img width="897" height="267" alt="image" src="https://github.com/user-attachments/assets/18106d7b-ba2f-4a0e-8cfc-7ff33b02632d" />
 
